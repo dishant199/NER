@@ -1,3 +1,5 @@
+#Named Entity Recognition
+
 **Background**
 
 Natural Language Processing (NLP), an area of linguistics, computer science, and artificial intelligence, studies how computers interact with human language. The basic objective of NLP is to allow computers to effectively read, interpret, and modify human language. NLP has progressed significantly over the years, from simple rule-based algorithms to complicated machine learning and deep learning models.
